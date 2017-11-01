@@ -8,4 +8,4 @@ Git command line shortcuts
 `git log -n 1 --pretty=format:'%H %aI %ae'`
 
 ### For a particular file
-`git log -n 1 --pretty=format:'%H %aI %ae' -- "file_name_here"
+`git log -n 1 --pretty=format:'%H %aI %ae' -- "file_name_here"`
