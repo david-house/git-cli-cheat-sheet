@@ -19,3 +19,8 @@ Git command line shortcuts
 ### List all the remote repositories
 `git remote -v`
 
+### Show the top-level directory of the current repository
+`git rev-parse --show-toplevel`
+
+### For a particular file `file_name` show the mode, object (SHA1), stage and file name
+`git ls-files -s file_name`
